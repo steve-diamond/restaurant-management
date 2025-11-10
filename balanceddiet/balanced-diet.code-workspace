@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": "Balanced Diet Cottage Website",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.php": "php"
+		},
+		"emmet.includeLanguages": {
+			"php": "html"
+		},
+		"php.suggest.basic": false,
+		"php.validate.enable": true,
+		"editor.formatOnSave": true,
+		"editor.tabSize": 2,
+		"editor.insertSpaces": true
+	},
+	"extensions": {
+		"recommendations": [
+			"bmewburn.vscode-intelephense-client",
+			"bradlc.vscode-tailwindcss",
+			"ms-vscode.vscode-json"
+		]
+	}
+}
